@@ -3,6 +3,7 @@ Crawl Samsung mobile phone information from JingDong, like Title，Battery, Pric
 //说明. 2018-03-21
 
 HttpCient  ：指定单个网页抓取手机信息
+
 Crawer4j   :  将HttpCient嵌入至爬虫引擎Crawer4j，实现了整个京东网站手机信息的抓取
 
 环境：Ubuntu+Maven+IntelliJ
