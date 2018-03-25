@@ -11,9 +11,6 @@ Auther：刘念
 
 HttpCient
 
-项目框架：
-
-
 执行结果：
 
                                         三星 Galaxy S9+（SM-G9650/DS）6GB+128GB 夕雾紫 移动联通电信4G手机 双卡双待                
@@ -24,8 +21,6 @@ HttpCient
 售价：6999.00
 
 Crawer4j
-
-项目框架
 
 执行结果：
 
